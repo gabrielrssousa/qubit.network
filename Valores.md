@@ -1,0 +1,7 @@
+- Christus Primatum (Cristologia Central)
+- Sola Scriptura (Epistemologia Revelacional)
+- Gratia Scientiae (Ciência como Graça Comum)
+- Humilitas Mentis (Humildade Epistêmica)
+- Imago Dei (Ética do Amor)
+- Libertas sub Veritate (Liberdade Submissa à Verdade)
+- Unitas Ecclesiae (Comunhão Eclesial)

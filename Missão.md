@@ -1,0 +1,1 @@
+Reintegrar a fé cristã com a ciência de forma bíblica e acessível, proclamando o evangelho por meio do conhecimento, arte, cultura e razão.

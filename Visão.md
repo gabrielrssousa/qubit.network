@@ -1,0 +1,1 @@
+Formar uma geração espiritualmente enraizada e intelectualmente engajada, onde fé e razão caminham em harmonia, e o Criador é glorificado tanto no culto quanto na pesquisa, no templo e no laboratório.
