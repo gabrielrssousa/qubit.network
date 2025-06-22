@@ -1,8 +1,12 @@
+# Ministério Qubit
+</br>
 
-🧭 | [[Visão]]
-🎯 | [[Missão]]
-💎 | [[Valores]]
-🧩 | [[Atuação prática]]
-📜 | [[Fundamento teológico]]
-🧾 | [[Futura identidade legal]]
-🤝 | [[Conexões e cobertura espiritual]]
+🧭 | [Visão](./Visao)
+
+🎯 | [Missão](Missao)
+
+💎 | [Valores](Valores)
+
+🧩 | [Atuação prática](AtuacaoPratica)
+
+📜 | [Fundamento teológico](FundamentoTeologico)
