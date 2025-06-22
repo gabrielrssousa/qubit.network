@@ -1,6 +1,3 @@
-# Ministério Qubit
-</br>
-
 🧭 | [Visão](./Visao)
 
 🎯 | [Missão](Missao)
